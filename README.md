@@ -6,8 +6,3 @@ This repository contains code for our *Methods in Quantitative Biology* Final Pr
 
 The data must be downloaded from [https://www.kaggle.com/datasets/robertnowak/bowel-sounds](https://www.kaggle.com/datasets/robertnowak/bowel-sounds) into a directory called `data`. 
 
-We can learn git from youtube
-
-''hello world''
-
-This is new new
